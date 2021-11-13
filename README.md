@@ -24,7 +24,7 @@ This QR Code Generator works based on the URL/Phone number/text message (or Anyt
 
 Please find the following files:
 
-    Required .ipynb file.
+    Required .py file.
     
 
 Links:
