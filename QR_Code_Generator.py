@@ -2,7 +2,7 @@ import pyqrcode
 import png
 from pyqrcode import QRCode
 # String which represents the QR code
-s = input("enter the url:")
+s = input("enter the your input for the QR-Code:")
 # Generate QR code
 url = pyqrcode.create(s)
 url.show('myqr.png')
