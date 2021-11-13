@@ -2,7 +2,7 @@
    <img src="https://user-images.githubusercontent.com/69902485/141648084-3a5fd335-de11-4632-887f-7f43a0333759.PNG" alt="[YOUR_ALT]"/>
 </p>    
 
-                                                       Scan the above QR-Code 
+                                                   Scan the above QR-Code 
 
 # QR Code Generator
 
