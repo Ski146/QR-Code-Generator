@@ -1,3 +1,5 @@
+![QR Code for LinkediN](https://user-images.githubusercontent.com/69902485/141648084-3a5fd335-de11-4632-887f-7f43a0333759.PNG) 
+
 # QR Code Generator
 
 This repository consist of a QR Code Generator that could generate QR Code of anything.
